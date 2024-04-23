@@ -27,11 +27,11 @@ console.log(arrayForString.toString());
 
 // array at 
 const arrayForAt = ["mohit", "pawan", "sayar", "js", "html"];
-console.log(arrayForAt.at());
+console.log(arrayForAt.at(2));
 
 // array joining 
 const arrayToJoin = ["mohit", "pawan", "sayar", "js", "html"];
-console.log(arrayForAt.join());
+console.log(arrayForAt.join("+"));
 
 // array pop 
 const arrayForPOP = ["mohit", "pawan", "sayar", "js", "html"];
